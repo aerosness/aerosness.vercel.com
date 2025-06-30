@@ -7,8 +7,8 @@ const AboutContent = () => {
       backgroundSize: 'cover',
       backgroundPosition: 'center',
     }}>
-      <div className="content-wrapper">
-        <h2 className="section-title">About Me</h2>
+      {/* <div className="content-wrapper"> */}
+        {/* <h2 className="section-title">About Me</h2>
         <p>👋 Hey there! I'm a web developer focused on front-end technologies.</p>
         <p>💻 My expertise lies in <b>React.js</b>, <b>JavaScript</b>, and modern web development.</p>
         <p>🚀 I enjoy building interactive and visually appealing web applications.</p>
@@ -41,7 +41,7 @@ const AboutContent = () => {
           <div className="hobby-item">🎤 Rap Music</div>
           <div className="hobby-item">🎨 Photoshop Edits</div>
         </div>
-      </div>
+      </div> */}
     </div>
   );
 };

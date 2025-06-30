@@ -53,19 +53,19 @@ const InfoContent = () => {
           />
         </div>
         <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', marginTop: '35px' }}>
-          <h2 style={{ margin: '0 0 5px 0' }}>Semyon</h2>
+          <h2 style={{ margin: '0 0 5px 0' }}>aerosness</h2>
           <p style={{ margin: '0 0 5px 0' }}>he/him</p>
           <p style={{ margin: '0 0 5px 0' }}>17 years</p>
-          <div style={{ display: 'flex', alignItems: 'center', marginBottom: '5px' }}>
+          {/* <div style={{ display: 'flex', alignItems: 'center', marginBottom: '5px' }}>
             <img
               src="resources/img/pin.png"
               alt="Location"
               style={{ width: '16px', height: '16px', marginRight: '5px' }}
             />
             <span>Almaty, Kazakhstan</span>
-          </div>
+          </div> */}
           <div style={{ display: 'flex', gap: '10px', marginTop: '5px' }}>
-            <a href="https://github.com/aerosness" target="_blank" rel="noopener noreferrer">
+            {/* <a href="https://github.com/aerosness" target="_blank" rel="noopener noreferrer">
               <img
                 src="resources/img/githublogo.png"
                 alt="GitHub"
@@ -92,7 +92,7 @@ const InfoContent = () => {
                 alt="Telegram"
                 style={{ width: '28px', height: '24px' }}
               />
-            </a>
+            </a> */}
           </div>
         </div>
       </div>
@@ -110,8 +110,8 @@ const InfoContent = () => {
       >
         <p style={{ margin: 0, textAlign: 'center', opacity: '100%' }}>
           {/*Тотально переписать и переделать*/}
-          Hi! This site is my portfolio/website styled like Windows 7.
-          I'm mostly a web developer with a passion for creating innovative and impactful applications❤️
+          Hi! This site is my website styled like Windows 7.
+          i lowkey like to eat
         </p>
       </div>
       

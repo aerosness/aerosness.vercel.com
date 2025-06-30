@@ -219,7 +219,7 @@ const LinksContent = () => {
           className="main-content"
           style={{ marginLeft: '210px' }}
         >
-          <p style={{ fontSize: '14px', color: '#555' }}>8 items</p>
+          <p style={{ fontSize: '14px', color: '#555' }}>7 items</p>
 
           <div
             className='links'
@@ -233,7 +233,7 @@ const LinksContent = () => {
               height: '300px'
             }}
           >
-            <a target="_blank" href="https://github.com/aerosness">
+            {/* <a target="_blank" href="https://github.com/aerosness">
               <img
                 style={{ maxWidth: '50px', maxHeight: '50px' }}
                 src="resources/img/githublogo.png"
@@ -247,7 +247,7 @@ const LinksContent = () => {
               >
                 Github
               </p>
-            </a>
+            </a> */}
 
             <a target="_blank" href="https://www.youtube.com/@aerosness">
               <img
